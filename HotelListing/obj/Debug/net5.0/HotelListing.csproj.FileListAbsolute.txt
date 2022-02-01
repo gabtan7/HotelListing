@@ -120,3 +120,9 @@ D:\CODE\HotelListings\HotelListing\obj\Debug\net5.0\HotelListing.csproj.Assembly
 D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CODE\HotelListings\HotelListing\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -17,7 +17,7 @@ namespace HotelListing.Models
     }
     public class CountryDTO : CreateCountryDTO
     {
-        public int CountryId { get; set; }
+        public int Id { get; set; }
         public virtual IList<HotelsDTO> Hotels { get; set; }
     }
 }
